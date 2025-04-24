@@ -1,0 +1,30 @@
+{
+  "name": "01",
+  "version": "1.0.0",
+  "description": "my first react-program",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SaurabhDesale-Dev/namaste-react.git"
+  },
+  "author": "Saurabh Desale",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SaurabhDesale-Dev/namaste-react/issues"
+  },
+  "homepage": "https://github.com/SaurabhDesale-Dev/namaste-react#readme",
+  "devDependencies": {
+    "parcel": "^2.14.4"
+  },
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  },
+  "browserslist": [
+    "last 2 Chrome versions"
+  ]
+}

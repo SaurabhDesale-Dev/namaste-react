@@ -1,3 +1,7 @@
+// Lets import react and react dom from react that is inside the node modules
+import React from "react";
+import ReactDOM from "react-dom/client";
+
 // Not lets create an h1 element using reacts , React.createElement(tagname,object,content)// takes 3 args
 const heading = React.createElement(
   "h1",
